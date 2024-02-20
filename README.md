@@ -13,11 +13,6 @@ Hey there! I'm **Alaa Daoud**, a web developer with a passion for creating engag
 - **Frameworks & Tools:** Experienced with Flask, ASP.NET Core, React, and more.
 - **Continuous Learning:** Always exploring new technologies and eager to expand my skill set.
 
-## 🌟 Let's Connect!
-
-- **GitHub:** Explore my projects and repositories right here!
-- **LinkedIn:** Connect with me professionally and stay updated.
-- **Email:** Drop me a line at your.email@example.com for collaborations and discussions.
 
 ## 📫 Contact Me
 
