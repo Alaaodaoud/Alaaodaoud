@@ -1,6 +1,5 @@
 <div align="center">
   <h1>👋 Welcome to Alaa Daoud's GitHub Profile!</h1>
-  <img src="https://yourimageurl.com" alt="Header Image" width="500px" height="300px">
 </div>
 
 ## 🚀 About Me
