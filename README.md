@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Welcome to Alaa Daoud's GitHub Profile!</h1>
   <p>
-    🚀 Full-Stack Developer | Founder of TrendStack Solutions | Turning Ideas into Digital Solutions
+    🚀 Full-Stack Developer | Turning Ideas into Digital Solutions
   </p>
   <br>
   <a href="https://linkedin.com/in/aodaoud">
