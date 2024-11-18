@@ -10,6 +10,9 @@
   <a href="mailto:alaa.cs.94@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
+  <a href="https://x.com/alaacs941">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X Badge">
+  </a>
 </div>
 
 ---
@@ -53,11 +56,9 @@ Clean, maintainable, and efficient code is my priority.
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alaaodaoud&show_icons=true&theme=radical" alt="Alaa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaaodaoud&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+## 🌠 Motivational Thought
+
+> "Code is like a puzzle, and solving it brings me the same joy as completing a challenging game. Let's build something great together—one line of code at a time!"
 
 ---
 
@@ -69,10 +70,9 @@ Clean, maintainable, and efficient code is my priority.
   <a href="https://linkedin.com/in/aodaoud">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-<a href="https://x.com/alaacs941">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge">
-</a>
-
+  <a href="https://x.com/alaacs941">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge">
+  </a>
 </div>
 
 ---
