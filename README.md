@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-profile-image.png" alt="Profile Banner" width="100%">
-</div>
-
-<div align="center">
   <h1>👋 Welcome to Alaa Daoud's GitHub Profile!</h1>
   <p>
     🚀 Full-Stack Developer | Founder of TrendStack Solutions | Turning Ideas into Digital Solutions
@@ -73,9 +69,10 @@ Clean, maintainable, and efficient code is my priority.
   <a href="https://linkedin.com/in/aodaoud">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
-  </a>
+<a href="https://x.com/alaacs941">
+  <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X Badge">
+</a>
+
 </div>
 
 ---
